@@ -31,7 +31,9 @@ class ProfilePicture extends StatelessWidget {
           decoration: BoxDecoration(
             color: Colors.grey[300],
             image: DecorationImage(
-              image: NetworkImage("http://picsum.photos/536/354"),
+              image: Image.network(
+                "https://picsum.photos/200/300",
+              ).image,
               fit: BoxFit.cover,
             ),
             border: Border.all(

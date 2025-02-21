@@ -26,6 +26,7 @@ MERGED from /home/nusatrip/AndroidStudioProjects/instagram/android/app/src/main/
 INJECTED from /home/nusatrip/AndroidStudioProjects/instagram/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/nusatrip/AndroidStudioProjects/instagram/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/nusatrip/AndroidStudioProjects/instagram/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [:connectivity_plus] /home/nusatrip/AndroidStudioProjects/instagram/build/connectivity_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.fragment:fragment:1.7.1] /home/nusatrip/.gradle/caches/8.10.2/transforms/cf3a986fc94dc98dab92da85e4b25558/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.window:window:1.2.0] /home/nusatrip/.gradle/caches/8.10.2/transforms/aed2861b2b6894f7067df3f3f96b791f/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.window:window-java:1.2.0] /home/nusatrip/.gradle/caches/8.10.2/transforms/a2be31f5f98c024d17eda5160252de46/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
@@ -80,6 +81,8 @@ uses-sdk
 INJECTED from /home/nusatrip/AndroidStudioProjects/instagram/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/nusatrip/AndroidStudioProjects/instagram/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/nusatrip/AndroidStudioProjects/instagram/android/app/src/debug/AndroidManifest.xml
+MERGED from [:connectivity_plus] /home/nusatrip/AndroidStudioProjects/instagram/build/connectivity_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /home/nusatrip/AndroidStudioProjects/instagram/build/connectivity_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] /home/nusatrip/.gradle/caches/8.10.2/transforms/cf3a986fc94dc98dab92da85e4b25558/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] /home/nusatrip/.gradle/caches/8.10.2/transforms/cf3a986fc94dc98dab92da85e4b25558/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window:1.2.0] /home/nusatrip/.gradle/caches/8.10.2/transforms/aed2861b2b6894f7067df3f3f96b791f/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
@@ -136,6 +139,10 @@ MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/nusatrip/.gradle/cac
 		INJECTED from /home/nusatrip/AndroidStudioProjects/instagram/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/nusatrip/AndroidStudioProjects/instagram/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity_plus] /home/nusatrip/AndroidStudioProjects/instagram/build/connectivity_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:connectivity_plus] /home/nusatrip/AndroidStudioProjects/instagram/build/connectivity_plus/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:22-76
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /home/nusatrip/.gradle/caches/8.10.2/transforms/aed2861b2b6894f7067df3f3f96b791f/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required

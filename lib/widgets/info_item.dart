@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 
 class InfoItem extends StatelessWidget {
-  InfoItem(this.title, this.value);
+  const InfoItem(this.title, this.value, {super.key});
 
   final String title;
   final String value;
